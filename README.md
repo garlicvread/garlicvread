@@ -19,3 +19,8 @@
 [![garlicvread's github stats](https://github-readme-stats.vercel.app/api?username=garlicvread&show_icons=true)
 ![garlicvread's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=garlicvread&)
 ![garlicvread's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=garlicvread&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/garlicvread)
+
+<br>
+
+## Seminar
+[Async Swift Korea Presentation](https://www.youtube.com/watch?app=desktop&v=DVauRWCogWI&ab_channel=swiftasync)
