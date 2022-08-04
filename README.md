@@ -23,7 +23,7 @@
 
 <br>
 
-## Seminar
+## 👔 Seminar
 [Async Swift Korea Presentation](https://www.youtube.com/watch?app=desktop&v=DVauRWCogWI&ab_channel=swiftasync)
 
 <br>
