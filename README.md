@@ -26,4 +26,5 @@
 ## Seminar
 [Async Swift Korea Presentation](https://www.youtube.com/watch?app=desktop&v=DVauRWCogWI&ab_channel=swiftasync)
 
-## 👉 Tech blog [Garlicvread's AI-Tech](https://garlicvread-ai-tech.tistory.com/)
+## 👉 Tech blog
+[Garlicvread's AI-Tech](https://garlicvread-ai-tech.tistory.com/)
