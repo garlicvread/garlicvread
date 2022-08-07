@@ -2,7 +2,6 @@
 
 <div><h4>Welcome to garlicvread's github repositories.</div>
 <div><h4>Working on AI and IOS projects.</div>
-<div>Tensorflow on M1 MacBook Pro... Welcome to the hell</div>
 
 <br>
 
