@@ -23,7 +23,6 @@
 ## 📈 Status 
 [![garlicvread's github stats](https://github-readme-stats.vercel.app/api?username=garlicvread&show_icons=true)
 ![garlicvread's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=garlicvread&)
-![garlicvread's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=garlicvread&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/garlicvread)
 
 <br>
 
