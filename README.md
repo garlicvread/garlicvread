@@ -16,13 +16,12 @@
 <br>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garlicvread)<a href="https://garlicvread-ai-tech.tistory.com/"><img alt="tistory" src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a><a href="mailto:try2quit@korea.ac.kr"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garlicvread)[![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://garlicvread-ai-tech.tistory.com)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:try2quit@korea.ac.kr)
 
 <br>
 
 ## 📈 Status 
-[![garlicvread's github stats](https://github-readme-stats.vercel.app/api?username=garlicvread&show_icons=true)
-![garlicvread's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=garlicvread&)
+![garlicvread's github stats](https://github-readme-stats.vercel.app/api?username=garlicvread&show_icons=true)![garlicvread's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=garlicvread&)
 
 <br>
 
