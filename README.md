@@ -1,7 +1,7 @@
 <div align = 'center'><h2> A Passionate AI-powered Mobile Application Developer 👋 </div>
 
 <div><h4>Welcome to garlicvread's github repositories.</div>
-<div><h4>Working on AI and iOS projects.</div>
+<div><h4>I am currently Working on on-device AI and iOS projects.</div>
 
 <br>
 
@@ -16,7 +16,7 @@
 <br>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garlicvread)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:try2quit@korea.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garlicvread)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:try2quit@korea.ac.kr)[![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/garlicvread-ai-tech/)
 
 <br>
 
