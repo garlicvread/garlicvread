@@ -7,12 +7,12 @@
 
 ## 📜 Projects
 
-|*Title / Repository*|*Date*|*Link*|
+|*Title / Repository*|*Date*|*Note*|
 |:---|:---|:---|
-|[오쿨로(oculo)](https://github.com/DeveloperAcademy-POSTECH/MacC_WalkingAssistant_iOS) | 2022.09 - present | [Link](https://apps.apple.com/kr/app/oculo/id6444328351) |
+|[오쿨로(oculo)](https://github.com/DeveloperAcademy-POSTECH/MacC_WalkingAssistant_iOS) | 2022.09 - present | [Appstore Link](https://apps.apple.com/kr/app/oculo/id6444328351) |
 |[RealTimeStyleTransfer](https://github.com/DeveloperAcademy-POSTECH/NC2_RealtimeStyleTransfer) | 2022.09 - 2022.09 ||
 |[MixTape](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-Wavegram) | 2022.07 - 2022.08||
-|[꼬옥(Kko_okk)](https://github.com/kko-okk/kko_okk) | 2022.05 - 2022.06 | [Link](https://apps.apple.com/kr/app/%EA%BC%AC%EC%98%A5/id1631273909) |
+|[꼬옥(Kko_okk)](https://github.com/kko-okk/kko_okk) | 2022.05 - 2022.06 | [Appstore Link](https://apps.apple.com/kr/app/%EA%BC%AC%EC%98%A5/id1631273909) |
 |[ATLAS](https://github.com/ATLAS-AI-project/ATLAS): Automated Teacher-Learner Anchoring System | 2021.08 - 2021.09 ||
 
 <br>
