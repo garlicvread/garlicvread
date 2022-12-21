@@ -7,7 +7,7 @@
 
 ## 📜 Projects
 
-|*Title / Repository*|*Date*|*Link*|
+|*Title / Repository*|*Date*|*Appstorek*|
 |:---|:---|:---|
 |[오쿨로(oculo)](https://github.com/DeveloperAcademy-POSTECH/MacC_WalkingAssistant_iOS) | 2022.09 - present | [Link](https://apps.apple.com/kr/app/oculo/id6444328351) |
 |[RealTimeStyleTransfer](https://github.com/DeveloperAcademy-POSTECH/NC2_RealtimeStyleTransfer) | 2022.09 - 2022.09 ||
