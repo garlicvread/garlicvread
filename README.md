@@ -7,11 +7,18 @@
 
 ## 📜 Projects
 
+|*Title*|*Date*|*Link*|
+|:---|:---|:---|
+|[오쿨로(oculo)](https://github.com/DeveloperAcademy-POSTECH/MacC_WalkingAssistant_iOS) | 2022.09 - present | [Link](https://apps.apple.com/kr/app/oculo/id6444328351) |
+|[RealTimeStyleTransfer](https://github.com/DeveloperAcademy-POSTECH/NC2_RealtimeStyleTransfer) | 2022.09 - 2022.09 ||
+|[MixTape](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-Wavegram) | 2022.07 - 2022.08||
+|[꼬옥(Kko_okk)](https://github.com/kko-okk/kko_okk) | 2022.05 - 2022.06 | [Link](https://apps.apple.com/kr/app/%EA%BC%AC%EC%98%A5/id1631273909) |
+|[ATLAS](https://github.com/ATLAS-AI-project/ATLAS): Automated Teacher-Learner Anchoring System | 2021.08 - 2021.09 ||
 
 <br>
 
 ## 🧑🏻‍💻 Language
-![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)![SWIFT](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=Swift&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=Python&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white) -->
+![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)![SWIFT](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=Swift&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=Python&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 
 <br>
 
