@@ -17,12 +17,12 @@
 
 <br>
 
-## 🧑🏻‍💻 Language
+## 🧑🏻‍💻 Languages
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)![SWIFT](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=Swift&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=Python&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 
 <br>
 
-## 🚚 OS
+## 🚚 OSs
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br>
@@ -37,6 +37,6 @@
 
 <br>
 
-## 👔 Presentation
+## 👔 Presentations
 [Async Swift Korea Presentation](https://www.youtube.com/watch?app=desktop&v=DVauRWCogWI&ab_channel=swiftasync)
 
