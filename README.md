@@ -32,8 +32,8 @@
 
 <br>
 
-## 📈 Status 
-![garlicvread's github stats](https://github-readme-stats.vercel.app/api?username=garlicvread&show_icons=true)![garlicvread's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=garlicvread&)
+## 📈 Status
+![garlicvread's github stats](https://github-readme-stats.vercel.app/api?username=garlicvread&count_private=true&show_icons=true)![garlicvread's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=garlicvread)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garlicvread&langs_count=20&layout=compact)](https://github.com/garlicvread/garlicvread)
 
 <br>
 
