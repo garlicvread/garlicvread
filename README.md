@@ -30,6 +30,8 @@
 ## 🌐 Socials, blogs
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garlicvread)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:try2quit@gmail.com)[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/intelligent-atlas)[![naverblog](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=try2quit&categoryNo=7)[![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/garlicvread-ai-tech/Garlicvread-s-AI-tech-4f3cab2f57da45b88f0ee622755853ec)
 
+    😢 Note: Didn't notice the previous e-mail account has been closed. Now it's working again.
+
 <br>
 
 ## 📈 Status
