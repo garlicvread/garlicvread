@@ -13,7 +13,7 @@
 |[RealTimeStyleTransfer](https://github.com/DeveloperAcademy-POSTECH/NC2_RealtimeStyleTransfer) | 2022.09 - 2022.09 ||
 |[MixTape](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-Wavegram) | 2022.07 - 2022.08||
 |[꼬옥(Kko_okk)](https://github.com/kko-okk/kko_okk) | 2022.05 - 2022.06 | [Appstore Link](https://apps.apple.com/kr/app/%EA%BC%AC%EC%98%A5/id1631273909) |
-|[ATLAS](https://github.com/ATLAS-AI-project/ATLAS): Automated Teacher-Learner Anchoring System | 2021.08 - 2021.09 ||
+|[ATLAS](https://github.com/ATLAS-AI-project/ATLAS): Automated Teacher-Learner Anchoring System | 2021.08 - 2021.09 |[Concept](https://sway.office.com/VQXHw9LoWgWHV5W3?ref=Link)|
 
 <br>
 
