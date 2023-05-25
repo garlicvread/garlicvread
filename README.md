@@ -1,7 +1,7 @@
 <div align = 'center'><h2> A Passionate AI-powered Mobile Application Developer 👋 </div>
 
 <div><h4>Welcome to garlicvread's github repositories.</div>
-<div><h4>I am currently Working on on-device AI and iOS projects.</div>
+<div><h4>I am currently Working on on-device AI and hardwares for resolving accessibility issues.</div>
 
 <br>
 
